@@ -1,2 +1,2 @@
 # mandelwave
-An inverse spectrogram for an eclipsed mandelbrot plot with Griffin-Lim phase reconstruction.
+An inverse spectrogram for an eclipsed mandelbrot plot using Mathematica with Griffin-Lim phase reconstruction.
